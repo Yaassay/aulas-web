@@ -1,0 +1,23 @@
+body {
+    text-align: center; 
+    font-family: Arial, sans-serif;
+    color: #336699; 
+    background-color: #e6f2ff; 
+  }
+  button {
+    padding: 10px 15px;
+    background-color: #81b2e7;
+    color: rgb(0, 0, 0);
+    border:5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+  #resultado {
+    list-style: none; 
+    padding: 20px;
+    border: 2px solid #007bff; 
+    border-radius: 10px; 
+    background-color: #ffffff; 
+    width: 300px; 
+    margin: 0 auto; 
+  }
